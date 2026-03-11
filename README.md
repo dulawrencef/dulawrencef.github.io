@@ -1,3 +1,1 @@
-# dulawrencef.github.io
-
 hello
